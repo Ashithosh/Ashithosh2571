@@ -1,0 +1,27 @@
+    1  VirtualBox --startvm XP
+    2  quartus
+    3  open firefox
+    4  cd Desktop clone https://github.com/Ashithosh/Ashithosh2571 
+    5  exit
+    6  whoami
+    7  whereiam
+    8  pwd
+    9  cd desktop
+   10  cd Desktop
+   11  placementfilesystem
+   12  cd User
+   13  hoami
+   14  user
+   15  user@epk428-5:~$ pwd
+   16  /home/user
+   17  user@epk428-5:~$ ls
+   18  whoami
+   19  pwd
+   20  who
+   21  echo $0
+   22  sh
+   23  uname
+   24  name -a
+   25  man uname -a
+   26  uname -a
+   27  history > history_20190909.txt
