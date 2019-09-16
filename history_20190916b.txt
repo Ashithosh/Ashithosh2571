@@ -1,0 +1,21 @@
+    1  VirtualBox --startvm XP
+    2  quartus
+    3  nano MyFirstScript.sh 
+    4  "fg"
+    5  ls -l
+    6  ls 
+    7  My
+    8  ./MyFirstScript.sh
+    9  chmod 704  MyFirstScript.sh 
+   10  ls -l
+   11  MyFirstScript.sh
+   12  ./MyFirstScript.sh
+   13  ls -l
+   14  cat log.txt
+   15  MyFirstScript.sh
+   16  ./MyFirstScript.sh
+   17  nano MyFirstDirectory.txt
+   18  nano MyFirstScript.txt
+   19  nano MyFirstScript.sh
+   20  history
+   21  history > history_20190915a.txt
