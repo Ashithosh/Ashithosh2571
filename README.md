@@ -1,5 +1,5 @@
 # Ashithosh2571
-my aim is to became a 
+my aim is to became a HARD PERFORMANCE PROGRAMMER...  i want to learnsomething new from the course 
 pwd is where ami
 ls is list 
 touch  ( he touch command is the easiest way to create new, empty files. It is also used to change the timestamps)
