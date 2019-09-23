@@ -1,0 +1,9 @@
+#!/bin/bash
+if [ $# == 1 ]
+then
+git config --global user.email ashithosh77@gamil.com
+git add .
+#git commit -m "Mon Sep 23 13:02:32 EEST 2019"
+git commit -m $1
+git push origin master
+fi

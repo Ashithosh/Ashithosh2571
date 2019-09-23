@@ -1,0 +1,49 @@
+    1  VirtualBox --startvm XP
+    2  quartus
+    3  git clone https://github.com/Ashithosh/Ashithosh2571
+    4  ls -l
+    5  cd Ashithosh2571/
+    6  ls -l
+    7  ls -a
+    8  ls -la
+    9  git
+   10  sudo apt-get install git
+   11  nano
+   12  nano git-upload
+   13  chmod 774 git-upload 
+   14  sudo chmod 774 git-upload\  
+   15  git-upload
+   16  chmod 774 git-upload
+   17  ls -l
+   18  mkdir 1
+   19  mv *.* 1/
+   20  ls -l
+   21  cd 1/
+   22  ls -l
+   23  cd ..
+   24  mv git-upload\  git-upload
+   25  ls -l
+   26  mv 1/*.* ./
+   27  ls -l
+   28  rm 1/
+   29  rm -rf 1/
+   30  ls -l
+   31  chmod 744 git-upload 
+   32  ls -l
+   33  ./git-upload 
+   34  nano git-upload 
+   35  ./git-upload 
+   36  ls- l
+   37  git-upload
+   38  whereis git-upload
+   39  ls
+   40  whereis ls
+   41  ls -l
+   42  ls -l /bin/ls
+   43  echo $PATH
+   44  PATH=$PATH:~/Ashithosh2571/
+   45  echo $PATH 
+   46  whereis git
+   47  git-uplaod
+   48  history > history_Sep 23 13:24:51.txt
+   49  history > history_20190923.txt
