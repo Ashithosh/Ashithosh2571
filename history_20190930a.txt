@@ -1,0 +1,86 @@
+    1  VirtualBox --startvm XP
+    2  quartus
+    3  ls -l
+    4  pwd
+    5  cd Ashithosh2571/
+    6  pwd
+    7  ls -l
+    8  cd workd/
+    9  ls -l
+   10  nano elemantary.c 
+   11  ls -l
+   12  cat elemantary.c 
+   13  nano elemantary.c
+   14  gcc elemantary.c 
+   15  ls -l
+   16  gcc elemantary.c -o prg1
+   17  ls -l
+   18  echo $path
+   19  prg1
+   20  echo $PATH 
+   21  ls -l
+   22  pwd
+   23  ls -l
+   24  ./prg1
+   25  pwd
+   26  /home/user/Ashithosh2571//work/prg1
+   27  /home/user/Ashithosh2571/work/prg1
+   28  /home/user/Ashithosh2571/workd/prg1
+   29  cd ..
+   30  ./workd/prg1
+   31  ls -l
+   32  cd workd/
+   33  pwd
+   34  ls -l
+   35  cat elemantary.c 
+   36  gcc elemantary.c 
+   37  ./a.out 
+   38  cp elemantary.c hello.c
+   39  ls -l
+   40  nano hello.c 
+   41  ls -l]
+   42  ls -l
+   43  cat hello.c 
+   44  gcc hello.c 
+   45  cat hello.c 
+   46  ls -l
+   47  ./a.out 
+   48  gcc hello.c -o prg2
+   49  gcc hello.c 
+   50  ls -l
+   51  nano hello.c 
+   52  gcc hello.c prg2
+   53  gcc hello.c prg1
+   54  gcc hello.c -o prg2
+   55  ./prg2
+   56  ./prg1
+   57  ./prg2
+   58  cat hello.c 
+   59  nano hello.c 
+   60  gcc hello.c -prg3
+   61  gcc hello.c -o prg3
+   62  ls -l
+   63  nano hello.c 
+   64  gcc hello.c -o prg3
+   65  cat hello.c 
+   66  gcc hello.c -o prg3
+   67  nano hello.c 
+   68  gcc hello.c -o prg3
+   69  cat hello.c 
+   70  ./prg3
+   71  cat hello.c 
+   72  ./prg3
+   73  nano hello.c 
+   74  gcc hello.c -o prg4
+   75  ./prg4
+   76  ls -l
+   77  rm prg1
+   78  ls -l
+   79  ls prg*
+   80  rm prg*
+   81  ls -l
+   82  rm a.out 
+   83  ls -l
+   84  cd ..
+   85  ls -l
+   86  history > history_20190930a.txt
