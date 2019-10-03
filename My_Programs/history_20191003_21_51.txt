@@ -1,0 +1,100 @@
+    1  sudo apt install linux-headers-$(uname -r) build-essential dkms
+    2  exit
+    3  sudo apt update && sudo apt upgrade -y
+    4  exit
+    5  sudo apt-get install -f
+    6  sudo apt-get update
+    7  sudo apt-get upgrade
+    8  sudo reboot
+    9  sudo dpkg-reconfigure libdvd-pkg
+   10  exit
+   11  gsetting set org.gnome.shell.extensions.dash-to-dock click-action 'minimize
+   12  gsetting set org.gnome.shell.extensions.dash-to-dock click-action
+   13  sudo gsettings set org.gnome.shell.extensions.dash-to-dock click-action 
+   14  exit
+   15  cat /proc/sys/vm/swappiness
+   16  gedit admin:///etc/sysctl.conf
+   17  exit
+   18  cat /proc/sys/vm/swappiness
+   19  sudo tlp start
+   20  exit
+   21  sudo sed -i 's/NoDisplay=true/NoDisplay=false/g' /etc/xdg/autostart/*.desktop
+   22  exit
+   23  whoami
+   24  apt-get install git
+   25  sudo apt-get install git
+   26  apt-get install tor
+   27  sudo apt-get install tor
+   28  sudo apt-get install proxychain
+   29  sudo apt-get install proxychains
+   30  proxychains 
+   31  proxychains firefox
+   32  service tor start
+   33  proxychains firefox
+   34  service tor stop 
+   35  proxychains leafpad
+   36  init 0
+   37  sudo apt-get install git
+   38  sudo apt-get install tools
+   39  whoami
+   40  pwd
+   41  nano int.c
+   42  service tor start
+   43  proxychains chrome
+   44  proxychains firefox
+   45  exit / reboot
+   46  reboot
+   47  rebot
+   48  sudo apt-get git
+   49  exit
+   50  sudo apt-get update
+   51  sudo apt-get install git
+   52  git config --global user.name "Ashithosh"
+   53  git config --global user.email "ashithosh77@gmail.com"
+   54  clear
+   55  git-clone https://github.com/Ashithosh/Ashithosh2571.git
+   56  git clone https://github.com/Ashithosh/Ashithosh2571.git
+   57  ls -l
+   58  pwd
+   59  cd Ashithosh2571/
+   60  mkdir My programs
+   61  ls -l
+   62  rm my programs
+   63  rm My
+   64  exit
+   65  git clone
+   66  git clone https://github.com/Ashithosh/Ashithosh2571.git
+   67  cd Ashithosh2571/
+   68  mkdir My_Programs
+   69  ls -l
+   70  cd My_Programs/
+   71  nano int.c
+   72  cat int.c 
+   73  gcc int.c
+   74  nano int.c 
+   75  gcc int.c
+   76  gcc elemantary.c -o prg1
+   77  nano int.c 
+   78  gcc int.c
+   79  gcc elemantary.c -o prg1
+   80  ls -l
+   81  ./a.out
+   82  nano int.c 
+   83  ./a.out 
+   84  nano int.c 
+   85  ./a.out 
+   86  cd Ashithosh2571/
+   87  ls -l
+   88  cd My_Programs/
+   89  ls-l
+   90  ls
+   91  gcc elemantary.c -o prg1
+   92  gcc int.c -o pro1
+   93  nano int.c 
+   94  gcc int.c -o pro2
+   95  nano int.c 
+   96  gcc int.c -o pro3
+   97  ./pro3
+   98  rm pro*
+   99  ls -l
+  100  history > history_20191003_21_51.txt
