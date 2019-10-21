@@ -1,0 +1,21 @@
+ 
+  1    apt-get install figlet
+  2    git clone https://github.com/busyloop/lolcat
+  3    cd /lolcat/bin && gem install lolcat
+  4    cd /usr/share
+  5    git clone https://github.com/xero/figlet-fonts
+  6    mv figlet-fonts/*figlet && rm -rf figlet-fonts
+  7    gedit /etc/bash.bashrc
+  8    figlet -f Bloody "Matrix" |lolcat
+  9    git clone Ashithosh2571
+  10   cd /Desktop/Ashithosh2571/Test 
+  11   nano test_1.c
+  12   cat test_1.c 
+  13   import -window root Pictures/test.png
+  14   gcc test_1.c -o test_1.out
+  15   ls -l test_1.out 
+  16  ./test_1.out 
+  17   import -window root Pictures/test_1.png  
+  18   git-upload
+  20   ./git-upload 
+  21   history > history_20191014.txt
