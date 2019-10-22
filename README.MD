@@ -1,7 +1,7 @@
 # Computer Studies (basic course) e-diary
 ## What I learn from this course
 ## **Class 01**
-Basic introduction class about this course 
+Basic introduction class about this course
 During the semester the students take part in the following planned activities getting prepared for
 them individually.
 **I.** Lectures.
@@ -18,6 +18,57 @@ Oral practical problem solving exam. The student’s skills and competences in c
 related tasks are demonstrated.
 
 ## **Class 02**
+
+
+
+
+
+
+
+
+
+
+
+
+## **Class 03**
+
+
+
+
+
+
+
+
+
+
+
+
+## **Class 04** 
+
+
+
+
+
+
+
+
+
+
+
+## **Class 05**
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 2- **cd** - change the Directories
