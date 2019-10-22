@@ -1,7 +1,7 @@
 # Computer Studies (basic course) e-diary
-## What I learn from this course 
----
-## Class 01
+## What I learn from this course
+## **Class 01**
+
 
 2- **cd** - change the Directories
 3- **pwd** - is where ami
