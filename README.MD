@@ -1,5 +1,5 @@
 # Computer Studies (basic course) e-diary
-What I learn from this course 
+## What I learn from this course 
 1- **mkdir** - its make to Create new Directories
 2- **cd** - change the Directories
 3- **pwd** - is where ami
