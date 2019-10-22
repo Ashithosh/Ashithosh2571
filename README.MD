@@ -4,23 +4,21 @@
 Basic introduction class about this course 
 During the semester the students take part in the following planned activities getting prepared for
 them individually.
-I. Lectures.
-12 lectures starting from week 1, one per week.
-II. Home works
-12 home works on the themes covered at the lectures.
-III. Labs.12 weekly labs, starting from week 3.
-IV. Midterm test.
-Week 9. Written test on C, C++ related issues
-VI. Final test.
-Week 16. Written test on Python related issues. Algorithm problems.
-VII. Exam.
+**I.** Lectures.
+**12** lectures starting from week 1, one per week.
+**II.** Home works
+**12** home works on the themes covered at the lectures.
+**III.** Labs.12 weekly labs, starting from week 3.
+**IV.** Midterm test.
+**Week 9.** Written test on C, C++ related issues
+**VI.** Final test.
+**Week 16.** Written test on Python related issues. Algorithm problems.
+**VII.** Exam.
 Oral practical problem solving exam. The student’s skills and competences in completing course
 related tasks are demonstrated.
 
-| Part |  CP | Hours per Week                   | Tests               |
-| ---- | --- | -------------- | --------- | --- | ----- | ---- | ---- |
-|      |     |    Lectures    | Practical | Lab |  Test | Exam | Work |
-|   1  | 3.0 |       1.5      |    0.0    | 1.5 |       |   *  |      |
+## **Class 02**
+
 
 2- **cd** - change the Directories
 3- **pwd** - is where ami
