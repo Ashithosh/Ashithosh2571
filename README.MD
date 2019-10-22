@@ -4,6 +4,16 @@
 Basic introduction class about this course 
 During the semester the students take part in the following planned activities getting prepared for
 them individually.
+
+\begin{table}[]
+\begin{tabular}{|c|c|c|c|c|c|c|c|}
+\hline
+Part & CP  & \multicolumn{3}{c|}{Hours per Week} & \multicolumn{3}{c|}{Tests} \\ \hline
+     &     & Lectures    & Practical    & Lab.   & Test    & Exam    & Work   \\ \hline
+1    & 3.0 & 1.5         & 0.0          & 1.5    &         & *       &        \\ \hline
+\end{tabular}
+\end{table}
+
 I. Lectures.
 12 lectures starting from week 1, one per week.
 II. Home works
