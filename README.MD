@@ -17,14 +17,13 @@ VII. Exam.
 Oral practical problem solving exam. The student’s skills and competences in completing course
 related tasks are demonstrated.
 
-\begin{table}[]
-\begin{tabular}{|c|c|c|c|c|c|c|c|}
-\hline
-Part & CP  & \multicolumn{3}{c|}{Hours per Week} & \multicolumn{3}{c|}{Tests} \\ \hline
-     &     & Lectures    & Practical    & Lab.   & Test    & Exam    & Work   \\ \hline
-1    & 3.0 & 1.5         & 0.0          & 1.5    &         & *       &        \\ \hline
-\end{tabular}
-\end{table}
++------+-----+----------------------------+--------------------+
+| Part |  CP |       Hours per Week       |        Tests       |
++------+-----+----------+-----------+-----+------+------+------+
+|      |     | Lectures | Practical | Lab | Test | Exam | Work |
++------+-----+----------+-----------+-----+------+------+------+
+|   1  | 3.0 |    1.5   |    0.0    | 1.5 |      |   *  |      |
++------+-----+----------+-----------+-----+------+------+------+
 
 2- **cd** - change the Directories
 3- **pwd** - is where ami
