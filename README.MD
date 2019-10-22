@@ -17,13 +17,10 @@ VII. Exam.
 Oral practical problem solving exam. The student’s skills and competences in completing course
 related tasks are demonstrated.
 
-+------+-----+----------------------------+--------------------+
-| Part |  CP |       Hours per Week       |        Tests       |
-+------+-----+----------+-----------+-----+------+------+------+
-|      |     | Lectures | Practical | Lab | Test | Exam | Work |
-+------+-----+----------+-----------+-----+------+------+------+
-|   1  | 3.0 |    1.5   |    0.0    | 1.5 |      |   *  |      |
-+------+-----+----------+-----------+-----+------+------+------+
+| Part |  CP | Hours per Week                   | Tests               |
+|:----:|:---:|:--------------:|:---------:|:---:|:-----:|:----:|:----:|
+|      |     |    Lectures    | Practical | Lab |  Test | Exam | Work |
+|   1  | 3.0 |       1.5      |    0.0    | 1.5 |       |   *  |      |
 
 2- **cd** - change the Directories
 3- **pwd** - is where ami
