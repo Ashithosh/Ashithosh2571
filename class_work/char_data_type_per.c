@@ -16,13 +16,13 @@ void main() // main function is "entry point" and it should obligatory
  printf("Your selected value as octal number: %o\n", a);
  printf("Your selected value as hexadecimal number: %x\n", a);
 
- char b=127;
+ int b=127;
  printf("b char variable value as decimal namber (?127): %d\n",b);
 
- char c=128;
+ int c=128;
  printf("c char variable value as decimal namber (?128): %d\n",c);
 
- char d=129;
+ int d=129;
  printf("d char variable value as decimal namber (?129): %d\n",d);
  }
 // we use void main, because our main doesn't return
