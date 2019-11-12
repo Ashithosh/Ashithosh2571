@@ -55,3 +55,46 @@ void main()
  printf("%d /= %d = %d : (sizeof\"/=\"%lu byte(s))\n",a,b, a /= b);
  printf("%d %= %d = %d : (sizeof\"%=\"%lu byte(s))\n",a,b, a %= b);
 }
+Arithmetic_Operators
+7 + 2 = 9 (sizeof "+" 4 byte(s))
+7 - 2 = 5 (sizeof "-" 4 byte(s))
+7 * 2 = 14 (sizeof "*" 4 byte(s))
+7 / 2 = 3 (sizeof "/" 4 byte(s))
+7 / 2 = 3.0 (result of using a/b even with f format)
+7 / 2 = 3.5 (result of using (float)a/b)
+Increment_and_Decerment_Operators
+7 % 2 = 1 (sizeof "%" 4 byte(s))
+8++ = 7 (sizeof "a++" 4 byte(s))
+value of a after - 8
+++9 = 9 (sizeof "++a" 4 byte(s))
+value of a after - 9
+Relational_Operators
+9 == 2 is 0 
+9 > 2 is 1 
+9 < 2 is 0 
+9 != 2 is 1 
+9 >= 2 is 1 
+9 <= 2 is 0 
+For 9 == 2 : (sizeof "==" 0 byte(s))
+For 9 != 2 : (sizeof "!=" 1 byte(s))
+For 9 > 2  : (sizeof ">" 1 byte(s))
+For 9 < 2  : (sizeof "<" 0 byte(s))
+For 9 >= 2 : (sizeof ">=" 1 byte(s))
+For 9 <= 2 : (sizeof "<=" 0 byte(s))
+Logical_Operators
+logical 9 &&  2 : (sizeof "&&"1 byte(s))
+logical 9 ||  2 : (sizeof "||"1 byte(s))
+logical 1 !   0 : (sizeof "!"0 byte(s))
+Bitwise_operators
+9 &  2 = 0 : (sizeof"&"18 byte(s))
+9 |  2 = 11 : (sizeof"&"0 byte(s))
+9 ^  2 = 11 : (sizeof"&"0 byte(s))
+9 << 2 = 36 : (sizeof"&"0 byte(s))
+9 >> 2 = 2 : (sizeof"&"0 byte(s))
+Assignment_operators
+2  = 2 = 2 : (sizeof"="21 byte(s))
+4 += 2 = 4 : (sizeof"+="0 byte(s))
+2 -= 2 = 2 : (sizeof"-="0 byte(s))
+4 *= 2 = 4 : (sizeof"*="0 byte(s))
+2 /= 2 = 2 : (sizeof"/="0 byte(s))
+0 %= 2 = 0 : (sizeof"%="0 byte(s))
