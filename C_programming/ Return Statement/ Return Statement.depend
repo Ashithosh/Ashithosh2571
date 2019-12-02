@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1575245078 source:/root/Desktop/ Return Statement/main.c
+	<stdio.h>
+	<stdlib.h>
+
