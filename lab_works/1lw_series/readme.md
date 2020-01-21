@@ -98,4 +98,4 @@ When I executed the code, I found that the results obtained with the Taylor seri
 
 ### Pictures
 
-![Function Graph] (https://github.com/Ashithosh/Ashithosh2571/blob/master/lab_works/1lw_series/series.png?raw=true)
+![Function Graph] (https://github.com/Ashithosh/Ashithosh2571/blob/master/lab_works/1lw_series/series.png)
