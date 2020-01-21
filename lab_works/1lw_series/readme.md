@@ -1,6 +1,6 @@
-# Laboratory work No.1. - Taylor series - report
+# LABORATORY WORK NO.1. - TAYLOR SERIES - REPORT 
 
-## Theory
+## THEORY
 In mathematics, a Taylor series is a representation of a function as an infinite sum of terms that are calculated from the values of the function's 
 derivatives at a single point.[1][2][3]
 In the West, the subject was formulated by the Scottish mathematician James Gregory and formally introduced by the English mathematician Brook Taylor in 1715. 
