@@ -1,0 +1,7 @@
+set title "TAYLOR SERIES"
+set xlabel "X-AXIS"
+set ylabel "Y-AXIS"
+
+plot sinh(x) with lines
+
+pause-1 "HIT ANY KEY TO CONTINUE"
