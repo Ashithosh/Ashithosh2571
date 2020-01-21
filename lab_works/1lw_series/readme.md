@@ -13,7 +13,7 @@ provided that the limit exists. A function may not be equal to its Taylor series
 A function that is equal to its Taylor series in an open interval (or a disc in the complex plane) is known as an analytic function 
 in that interval.
 
-### Code
+### CODE
 ```
 #include<stdio.h>
 #include<math.h>
@@ -61,11 +61,12 @@ while (k<500)
 
 
 ```
-Comments about code  
+### COMMENTS ABOUT CODE 
+
 I use  long double refers to a floating-point data type that is often more precise than double-precision 
 though the language standard only requires it to be at least as precise as double. As with C's other floating-point types.
 
-### Result
+### RESULT
 ```
 Enter Value For X
 2.05
@@ -93,8 +94,9 @@ R=                 -----------
 
 ```
 
-### Analysis
+### ANALYSIS
+
 When I executed the code, I found that the results obtained with the Taylor series match the estimated value of the function.  
 
-### Picture
+### PICTURE
 ![Function graph](https://github.com/Ashithosh/Ashithosh2571/blob/master/lab_works/1lw_series/series.png)
