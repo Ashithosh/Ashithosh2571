@@ -96,6 +96,5 @@ R=                 -----------
 ### Analysis
 When I executed the code, I found that the results obtained with the Taylor series match the estimated value of the function.  
 
-### Pictures
-
-https://github.com/Ashithosh/Ashithosh2571/blob/master/lab_works/1lw_series/series.png
+### Picture
+![Function graph](https://github.com/Ashithosh/Ashithosh2571/blob/master/lab_works/1lw_series/series.png)
