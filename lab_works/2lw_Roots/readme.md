@@ -53,10 +53,6 @@ int main() {
 
 
 ```
-### COMMENTS ABOUT CODE 
-
-I use  long double refers to a floating-point data type that is often more precise than double-precision 
-though the language standard only requires it to be at least as precise as double. As with C's other floating-point types.
 
 ### RESULT
 ```
