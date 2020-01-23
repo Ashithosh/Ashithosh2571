@@ -1,0 +1,8 @@
+set title "roots"
+set xrange [-2*pi:2*pi]
+set xlabel "X-AXIS"
+set ylabel "Y-AXIS"
+
+plot (1+x)*sinh(x) with lines
+
+pause-1 "HIT ANY KEY TO CONTINUE"
