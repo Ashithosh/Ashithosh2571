@@ -75,5 +75,5 @@ To solve this problem, I use the data obtained by the analytical formula to comp
 
 ### Picture
 
-![Illustration of a function and its derivatives]()
+![Illustration of a function and its derivatives](https://github.com/Ashithosh/Ashithosh2571/blob/master/lab_works/3lw_Derivative/derivatives1.png)
 
