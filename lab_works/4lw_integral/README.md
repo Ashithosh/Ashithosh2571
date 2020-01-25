@@ -88,5 +88,5 @@ While executing this code, I found that the program calculates integrals correct
 
 ### Picture
 
-![Function graph]()
+![Function graph](https://github.com/Ashithosh/Ashithosh2571/blob/master/lab_works/4lw_integral/integral.png)
 
